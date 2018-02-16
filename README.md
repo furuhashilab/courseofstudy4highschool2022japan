@@ -10,7 +10,7 @@ http://www.mext.go.jp/b_menu/houdou/30/02/1401394.htm
 * 以下、とりあえずテキストをそのままPDFからコピペ抽出。Wordファイルなど入手できれば順次差し替え。
 とりあえずマークダウンで修正していきます。
 
-* 気になる点や議論などは Issue でメモしようと思います。通りがかりの書き込みも歓迎です。Markdown化は時間のあるときにすすめますが、お手伝いいただける方からの PullRequest お待ちしております。
+* 気になる点や議論などは [Issue](https://github.com/furuhashilab/courseofstudy4highschool2022japan/issues) でメモしようと思います。通りがかりの書き込みも歓迎です。Markdown化は時間のあるときにすすめますが、お手伝いいただける方からの PullRequest お待ちしております。
 
 
 ---
