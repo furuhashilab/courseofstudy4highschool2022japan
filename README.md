@@ -4,6 +4,9 @@
 ## 原文ソース
 http://search.e-gov.go.jp/servlet/PcmFileDownload?seqNo=0000170311
 
+## 高等学校学習指導要領解説「生きる力」
+http://www.mext.go.jp/a_menu/shotou/new-cs/1407074.htm
+
 ## パブコメ
 http://www.mext.go.jp/b_menu/houdou/30/02/1401394.htm
 
@@ -11,6 +14,7 @@ http://www.mext.go.jp/b_menu/houdou/30/02/1401394.htm
 とりあえずマークダウンで修正していきます。
 
 * 気になる点や議論などは [Issue](https://github.com/furuhashilab/courseofstudy4highschool2022japan/issues) でメモしようと思います。通りがかりの書き込みも歓迎です。Markdown化は時間のあるときにすすめますが、お手伝いいただける方からの PullRequest お待ちしております。
+
 
 
 ---
