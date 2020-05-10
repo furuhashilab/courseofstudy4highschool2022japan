@@ -6,8 +6,8 @@
 ## 原文ソース
 http://search.e-gov.go.jp/servlet/PcmFileDownload?seqNo=0000170311
 
-## 高等学校学習指導要領解説「生きる力」
-http://www.mext.go.jp/a_menu/shotou/new-cs/1407074.htm
+## [高等学校学習指導要領解説「生きる力」](https://github.com/furuhashilab/courseofstudy4highschool2022japan/tree/master/%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E5%AD%A6%E7%BF%92%E6%8C%87%E5%B0%8E%E8%A6%81%E9%A0%98%E8%A7%A3%E8%AA%AC%E3%80%8C%E7%94%9F%E3%81%8D%E3%82%8B%E5%8A%9B%E3%80%8D)
+* [参考資料（文部科学省ウェブサイト）](http://www.mext.go.jp/a_menu/shotou/new-cs/1407074.htm)
 
 ## パブコメ
 http://www.mext.go.jp/b_menu/houdou/30/02/1401394.htm
