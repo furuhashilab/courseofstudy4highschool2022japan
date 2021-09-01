@@ -1,7 +1,8 @@
 # courseofstudy4highschool2022japan
-2022年度スタート予定の高等学校新学習要領リポジトリ
+2022年度スタート予定の高等学校新学習指導要領リポジトリ。
+PDFで公開されていた文言をひたすら Markdown 記法に変換しています。
 
-※ 現在、学習指導要領の解説などを追加作業中です。
+* 現在、学習指導要領の解説などを追加作業中です。
 
 ## 原文ソース
 http://search.e-gov.go.jp/servlet/PcmFileDownload?seqNo=0000170311
